@@ -2,7 +2,7 @@ var fs = require('fs');
 
 	fs.writeFile('node04_05fsfile.txt','Hello World',function(err,data){
 		if(err) throw err;
-		console.log('saved!');
+		console.log('saved!.Update~!!!');
 	});
 
 
